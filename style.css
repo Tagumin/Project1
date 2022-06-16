@@ -1,0 +1,70 @@
+/*Navbar*/
+.navbar {
+  background-color: rgba(205, 246, 239);
+}
+.navbar form button {
+  background-color: green;
+  color: white;
+}
+.navbar ul {
+  margin-left: auto;
+}
+.navbar ul li {
+  margin-right: 30px;
+}
+/*Navbar*/
+
+/*Profile*/
+.jumbotron img {
+  object-fit: cover;
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+}
+.jumbotron {
+  padding-top: 5rem;
+}
+
+.about {
+  background-color: #cdf6ef;
+  padding-top: 5rem;
+}
+.about .bi {
+  margin-right: 10px;
+  font-size: 50px;
+}
+span {
+  margin-bottom: 10px;
+  font-size: 30px;
+}
+
+/*photos*/
+.photos {
+  padding-top: 5rem;
+}
+h5 {
+  margin-top: 40px;
+}
+.photos .bi {
+  margin-right: 10px;
+  font-size: 30px;
+}
+
+.photos img {
+  height: 200px;
+
+  object-fit: cover;
+}
+
+.photos .card {
+  margin-bottom: 20px;
+}
+.photos .button {
+  padding-top: 100px;
+  height: 300px;
+}
+/*Footer*/
+footer {
+  background-color: #cdf6ef;
+  text-align: center;
+}
